@@ -419,9 +419,4 @@ header nav .form i {
     margin-right: 20px;
     position: relative;
 }
-@media (max-width: 767px) {
-    .design .text ul li::before{
-        margin-right: 6px;
-    }
-}
 /* End Design */
